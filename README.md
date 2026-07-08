@@ -5,3 +5,5 @@ Please upload the files following the conventions:
 - 2026-07-DD-IWST-Name.pdf
 
 Where DD is the day number
+
+Presentations that don't have slides will have a .txt file explaining this
